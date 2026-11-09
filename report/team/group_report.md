@@ -16,19 +16,19 @@
 
 ### 2.1. Pitch
 
-| # | Người đưa ra | Candidate (Job Story ngắn) | Actor | Bottleneck | Câu hỏi phản biện nhận được (ai hỏi) |
+| # | Người đưa ra | Candidate (Job Story ngắn) | Actor | Bottleneck | Câu hỏi phản biện / người hỏi |
 |---:|---|---|---|---|---|
-| 1 | | | | | |
+| 1 | Nguyễn Anh Tú | Khi xe VinFast báo lỗi, tôi muốn biết cần xử lý gấp hay có thể đợi để quyết định có đi xưởng ngay không | Chủ xe VinFast | Theo lời kể, mất 1–3 ngày từ lúc thấy lỗi đến khi có đánh giá; chưa tách thời gian chờ và chưa xác minh loại lỗi | **Câu hỏi 1 — Hoàng Minh Huy (đã hỏi):** Nếu mô tả triệu chứng không đủ để xác định mức độ nguy hiểm, làm sao tránh đánh giá thấp lỗi khiến chủ xe tiếp tục lái xe không an toàn? Khi không chắc, có nên hướng người dùng đến kỹ thuật viên/cứu hộ? |
 | 2 | | | | | |
 | 3 | | | | | |
 | 4 | | | | | |
 | 5 | | | | | |
 | 6 | | | | | |
 | 7 | | | | | |
-| 8 | | | | | |
+| 8 | Nguyễn Thị Thanh Bình | Khi cần nhà vệ sinh hoặc mua nước, tôi muốn tìm điểm phù hợp, thuận đường và biết khả năng tiếp cận/trạng thái đông | Người lớn chăm sóc trẻ nhỏ hoặc hỗ trợ người hạn chế di chuyển | Mốc tìm/chọn 3 phút và chờ WC 15–30 phút là giả định, cần kiểm chứng | **Câu hỏi 2 — Hoàng Minh Huy (đã hỏi):** WC và điểm mua nước có cùng người dùng/bối cảnh hay nên tách thành hai vấn đề? Nguồn nào xác nhận điểm đang mở, đường đi và khả năng tiếp cận đủ chính xác? |
 | 9 | | | | | |
 | 10 | | | | | |
-| 11 | | | | | |
+| 11 | Đặng Long Nhật | Khi máy báo lỗi thiếu thư viện giữa ca, tôi muốn xác định đúng môi trường Python để khôi phục bài đang làm | Người trực phòng lab, sinh viên gặp lỗi | Số liệu mô phỏng nêu trung bình 14 phút/lượt; cần kiểm chứng bằng tình huống thực | **Câu hỏi 3 — Hoàng Minh Huy (đã hỏi):** Có thể xử lý bằng hướng dẫn chuẩn hoặc quy tắc kiểm tra môi trường trước khi dùng AI không? Làm sao xác nhận lỗi đã xử lý mà không làm hỏng môi trường hay gián đoạn bài đang chạy? |
 | 12 | | | | | |
 
 ### 2.2. Cluster
