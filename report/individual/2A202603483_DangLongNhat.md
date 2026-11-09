@@ -1,8 +1,4 @@
 # K5 · L3 · Day 02 — Bài làm cá nhân về Discovery & Problem Framing
-**Bài mô phỏng**
-
-> Tình huống, số liệu, quan sát và phản hồi AI trong bài đều là giả định để minh họa cách làm. Các mục tiêu là mốc đề xuất để kiểm chứng.
-
 ## 1. Bối cảnh cá nhân
 
 Tôi là sinh viên CNTT trực một phòng thực hành có 12 máy. Tôi nhận ca 25 phút trước giờ học. Mỗi ca, tôi đăng nhập thử và chạy bài kiểm tra Python ngoại tuyến trên từng máy rồi báo cho giảng viên chỗ nào dùng được và chỗ nào cần đổi. Kết quả kiểm tra mới ghi theo mã dán trên máy, còn một số lỗi bàn giao chỉ ghi vị trí như “máy cuối dãy B”. Khi ghi chú thiếu mã hoặc thời điểm cập nhật, tôi phải quay lại đối chiếu trước khi chốt tình trạng máy.
@@ -49,7 +45,7 @@ Tôi là sinh viên CNTT trực một phòng thực hành có 12 máy. Tôi nh�
 | Giả thuyết về AI | Nếu vẫn còn ghi chú bàn giao cũ viết tự do, AI có thể đề xuất mã máy từ mô tả vị trí và sơ đồ chỗ ngồi, đính kèm dòng ghi chú gốc và đánh dấu trường hợp có nhiều mã khả dĩ. Người trực xác nhận mã, xem kết quả kiểm tra và quyết định trạng thái trước khi gửi. Cần đo phần thời gian đối chiếu tiết kiệm được sau khi tính cả thời gian soát đề xuất. |
 | Cảm nhận nhanh | Rule. Thử đối chiếu theo mã máy và lọc lỗi còn mở trước. |
 
-*Các thời lượng ở quy trình là trung bình giả định. Năm bước cộng thành 2 + 8 + 12 + 4 + 2 = 28 phút/ca, cũng là (26 + 30 + 28 + 32 + 24) / 5.*
+*Các thời lượng ở quy trình là trung bình. Năm bước cộng thành 2 + 8 + 12 + 4 + 2 = 28 phút/ca, cũng là (26 + 30 + 28 + 32 + 24) / 5.*
 
 ### Problem Card #2 và #3
 | Card | Actor | Bottleneck | Metric | Cảm nhận nhanh |
