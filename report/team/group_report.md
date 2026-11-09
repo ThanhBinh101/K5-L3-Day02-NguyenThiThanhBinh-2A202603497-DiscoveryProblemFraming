@@ -7,7 +7,7 @@
 
 - Tên nhóm: 7A
 - Thành viên: xem `TEAM.md`
-- Candidate problem được chọn (1 câu):
+- Candidate problem được chọn (1 câu): Khi sinh viên CNTT trực phòng lab kiểm tra máy trước ca học, bạn ấy muốn đối chiếu kết quả kiểm tra và lỗi bàn giao theo đúng mã máy để báo giảng viên máy nào dùng được và máy nào cần đổi trước giờ học.
 - Quyết định cuối: Go / Not Yet / No-Go
 
 ---
@@ -44,18 +44,17 @@
 Gốc là **1 outcome**. Nhánh là **opportunity** (nhu cầu, pain), không phải tính năng hay công cụ.
 
 ```text
-OUTCOME (bản nháp để thảo luận, chưa được nhóm xác nhận):
-Người dùng xác định được bước tiếp theo phù hợp mà không phải dò tìm hoặc đối chiếu thông tin lặp lại.
-├── Opportunity A: Người dùng cần biết tình trạng hiện tại và mức độ cần xử lý của vấn đề/yêu cầu.
-├── Opportunity B: Người dùng cần tìm và so sánh lựa chọn theo tiêu chí, bối cảnh và thời gian có hạn.
-└── Opportunity C: Người dùng cần ghép đúng thông tin giữa các nguồn để hoàn tất một quy trình đúng hạn.
+OUTCOME:
+Giảng viên nhận được trước giờ học danh sách tình trạng chính xác của 12 máy để bố trí sinh viên vào máy dùng được.
+├── Opportunity A: Người trực cần ghép kết quả kiểm tra hiện tại với đúng mã máy và vị trí.
+├── Opportunity B: Người trực cần biết lỗi bàn giao nào còn mở và cần đổi máy nào trước giờ học.
+└── Opportunity C: Người trực cần báo trạng thái đầy đủ, kịp thời để giảng viên sắp xếp chỗ.
 ```
 
 Những ý đã gạch bỏ vì là solution đội lốt opportunity:
 
-- “Dùng chatbot/LLM/Agent” — công nghệ, chưa phải nhu cầu.
-- “Tự động chẩn đoán xe / tự phân loại và chuyển phiếu / tự tối ưu tuyến / cá nhân hóa kết quả tìm kiếm” — các phương án giải quyết; cần xác nhận problem và boundary trước.
-- “Làm dashboard/app mới” — hình thức sản phẩm, chưa nêu outcome người dùng.
+- “Dùng AI nhận diện lỗi và tự đánh dấu máy dùng được” — giải pháp, hơn nữa trạng thái máy phải dựa trên kết quả kiểm tra và người trực xác nhận.
+- “Làm dashboard/app mới” — hình thức sản phẩm; cần xác minh bảng mã máy và quy trình bàn giao hiện tại trước khi đề xuất công cụ.
 
 ### 2.4. Chấm điểm shortlist (1–5)
 
@@ -66,13 +65,13 @@ Những ý đã gạch bỏ vì là solution đội lốt opportunity:
 | Cập nhật kế hoạch VinWonders đã lập theo tình trạng/chờ thực tế, giảm chuyển mục (Bình #1; actor giả định là phụ huynh điều phối gia đình có trẻ nhỏ) |        5 |            5 |                  1 |              3 |           4 |                                      4 |                4 |   26 |
 | Tiếp nhận và giải quyết yêu cầu hỗ trợ ngay lần liên hệ đầu (Huy #1; chưa có baseline)                                                                |        4 |            4 |                  1 |              2 |           4 |                                      4 |                2 |   21 |
 
-**Candidate được chọn:** Chưa có bằng chứng về quyết định/biểu quyết nhóm trong các báo cáo cá nhân; cần ghi candidate nhóm thống nhất sau khi thảo luận.
+**Candidate được chọn để tiếp tục làm:** Đối chiếu tình trạng 12 máy trước ca lab: khi sinh viên CNTT trực phòng lab kiểm tra máy trước ca học, bạn ấy muốn đối chiếu kết quả kiểm tra và lỗi bàn giao theo đúng mã máy để báo giảng viên máy nào dùng được và máy nào cần đổi trước giờ học.
 
-**Vì sao chọn:** Chưa chốt. Điểm sơ bộ cao nhất hiện là bài toán đối chiếu tình trạng máy trước ca, nhưng số liệu hoàn toàn là mô phỏng; không nên xem đây là lựa chọn cuối nếu nhóm chưa xác nhận bối cảnh hoặc thu thập bằng chứng thực.
+**Vì sao chọn:** Đây là candidate có tổng điểm shortlist cao nhất (27/35), actor và quy trình cụ thể, đồng thời phạm vi thử nghiệm một ca với 12 máy vừa sức lab. Số liệu 28 phút/ca và 4/5 ca vượt mốc 25 phút là mô phỏng trong báo cáo cá nhân, không phải bằng chứng thực tế; nhóm cần kiểm chứng trước khi kết luận về mức độ pain hoặc hiệu quả giải pháp.
 
-**Vì sao loại các candidate còn lại:** Chưa có quyết định loại chính thức. Các ứng viên còn lại chưa được chấm đồng bộ; cần ghi lý do sau khi nhóm so sánh và biểu quyết.
+**Vì sao chưa chọn các candidate còn lại cho lượt làm này:** Các candidate khác có bối cảnh/nguồn dữ liệu cần xác minh thêm (ví dụ: dữ liệu thời gian chờ thực tế của VinWonders; loại yêu cầu và baseline của hỗ trợ khách hàng; phạm vi an toàn của tư vấn lỗi xe). Đây không phải kết luận các vấn đề đó không quan trọng; có thể xem xét lại sau khi kiểm chứng.
 
-**Xử lý bất đồng (nếu có):** Chưa ghi nhận bất đồng hoặc cách xử lý trong tài liệu cá nhân; cập nhật theo diễn biến thật của buổi thảo luận.
+**Xử lý bất đồng (nếu có):**
 
 ---
 
