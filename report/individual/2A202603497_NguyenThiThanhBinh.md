@@ -1,19 +1,15 @@
-Dưới đây là bản điền theo dự án **VinWonders Companion**. Các thông tin cá nhân và hoạt động nhóm chưa được xác nhận để trong `[...]`. **Mục 6 giữ câu hỏi gợi nhớ để bạn tự viết**, đúng yêu cầu “Không dùng AI để viết thay”.
-
-```markdown
 # Báo cáo cá nhân — MSSV_HoTen
 
 ## 1. Thông tin học viên
 
 - Họ tên: Nguyễn Thị Thanh Bình
 - MSSV: 2A202603497
-- Email trường: [Không bắt buộc]
 - Tên nhóm: 7a
 - Link repo nhóm: https://github.com/ThanhBinh101/K5-L3-Day02-NguyenThiThanhBinh-2A202603497-DiscoveryProblemFraming
 
 **Đề tài đề xuất:** VinWonders Companion — Trợ lý hành trình cá nhân hóa theo tình hình thực tế.
 
-> Quy ước: Các số liệu thời gian trong bài là giả định để thiết kế kiểm chứng, chưa phải kết quả khảo sát. Target là mục tiêu thử nghiệm, không phải kết quả đã đạt. Các đóng góp nhóm chưa thực hiện hoặc chưa xác nhận cần được cập nhật trước khi nộp.
+> Quy ước: Các số phút, số người và số lần trong bảng CP1 là giả định để thiết kế kiểm chứng, chưa phải kết quả quan sát hay khảo sát. Mỗi ước lượng gắn với một tình huống và cách quy đổi/đo cụ thể; cần thay bằng số liệu thực sau khi kiểm chứng. Các số thời gian ở phần sau cũng là baseline giả định. Target là mục tiêu thử nghiệm, không phải kết quả đã đạt. Các đóng góp nhóm chưa thực hiện hoặc chưa xác nhận cần được cập nhật trước khi nộp.
 
 ---
 
@@ -21,16 +17,16 @@ Dưới đây là bản điền theo dự án **VinWonders Companion**. Các th�
 
 Lăng kính: **Lặp lại** · **Tốn thời gian** · **Cần đọc, tổng hợp nhiều thông tin** · **Pain từ người khác**.
 
-|   # | Lăng kính                         | Job Story: Khi… tôi muốn… để…                                                                                                       | Ai chịu ảnh hưởng?                           | Dấu hiệu thật                                                                                      |
-| --: | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-|   1 | Cần đọc, tổng hợp nhiều thông tin | Khi có nhiều trò chơi để lựa chọn, tôi muốn tìm các trò phù hợp sở thích và điều kiện tham gia để tránh mất thời gian xem từng trò. | Khách tham quan, người lập kế hoạch cho nhóm | Nhu cầu do tôi mô tả từ góc nhìn khách; chưa đo thời gian hoặc tỷ lệ gặp vấn đề.                   |
-|   2 | Tốn thời gian                     | Khi chọn điểm đến tiếp theo, tôi muốn biết thời gian chờ và thời gian đi bộ để quyết định hợp lý trước khi di chuyển.               | Khách có thời gian tham quan giới hạn        | Review công khai trên trang ứng dụng có phản ánh trải nghiệm chờ; chưa có dữ liệu hàng chờ nội bộ. |
-|   3 | Pain từ người khác                | Khi trò chơi đông bất ngờ hoặc tạm ngừng, tôi muốn có phương án thay thế để không phải tự làm lại toàn bộ lịch trình.               | Khách đi theo lịch, gia đình                 | Tình huống cần kiểm chứng qua quan sát; chưa biết tần suất xảy ra.                                 |
-|   4 | Lặp lại                           | Khi cần nhà vệ sinh, tôi muốn tìm điểm gần và có đường tiếp cận phù hợp để giải quyết nhu cầu nhanh.                                | Khách đang di chuyển, gia đình có trẻ nhỏ    | Là nhu cầu người đề xuất nêu; cần quan sát cách khách đang tìm tiện ích.                           |
-|   5 | Lặp lại                           | Khi cần mua nước, tôi muốn tìm điểm đang mở và thuận đường để không phải đi vòng.                                                   | Khách tham quan                              | Chưa có số liệu về số lần hỏi hoặc quãng đường đi vòng.                                            |
-|   6 | Cần đọc, tổng hợp nhiều thông tin | Khi muốn ăn, tôi muốn so sánh nhà hàng theo vị trí, giá, thời gian phục vụ và lịch tiếp theo để chọn điểm thuận tiện.               | Nhóm khách, người tổ chức chuyến đi          | Bài toán do tôi đề xuất; khả năng lấy dữ liệu chờ nhà hàng chưa xác minh.                          |
-|   7 | Pain từ người khác                | Khi nhóm có sở thích khác nhau hoặc bắt đầu mệt, tôi muốn điều chỉnh nhịp độ và hoạt động để cả nhóm vẫn có trải nghiệm phù hợp.    | Gia đình, nhóm bạn                           | Giả thuyết cần phỏng vấn; chưa có khảo sát nhóm khách.                                             |
-|   8 | Tốn thời gian                     | Khi muốn xem show, tôi muốn biết còn đủ thời gian chơi và di chuyển hay không để tránh bỏ lỡ chương trình.                          | Khách có hoạt động ưu tiên                   | Ứng dụng có thông tin lịch show; cần kiểm tra khoảng trống giữa tra cứu lịch và lập tuyến khả thi. |
+|   # | Lăng kính                         | Job Story: Khi… tôi muốn… để…                                                                                                       | Ai chịu ảnh hưởng?                           | Dấu hiệu (giả định cần kiểm chứng)                                                                                                                            |
+| --: | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Cần đọc, tổng hợp nhiều thông tin | Khi có nhiều trò chơi để lựa chọn, tôi muốn tìm các trò phù hợp sở thích và điều kiện tham gia để tránh mất thời gian xem từng trò. | Khách tham quan, người lập kế hoạch cho nhóm | Giả định: nhóm so sánh 3 trò, mất khoảng 6 phút (2 phút/trò); kiểm tra bằng cách bấm giờ từ lúc mở danh sách đến khi thống nhất, chưa đo thực tế.               |
+|   2 | Tốn thời gian                     | Khi chọn điểm đến tiếp theo, tôi muốn biết thời gian chờ và thời gian đi bộ để quyết định hợp lý trước khi di chuyển.               | Khách có thời gian tham quan giới hạn        | Giả định: mỗi lần chọn trò mất khoảng 2 phút để tra 2 thông tin (1 phút xem thời gian chờ, 1 phút xem thời gian đi bộ); bấm giờ đến khi quyết định.            |
+|   3 | Pain từ người khác                | Khi trò chơi đông bất ngờ hoặc tạm ngừng, tôi muốn có phương án thay thế để không phải tự làm lại toàn bộ lịch trình.               | Khách đi theo lịch, gia đình                 | Giả định: mỗi lần trò tạm ngừng, nhóm mất khoảng 5 phút (2 phút tìm lựa chọn khác, 3 phút so sánh và thống nhất); ghi số lần phát sinh và bấm giờ từng lần.   |
+|   4 | Lặp lại                           | Khi cần nhà vệ sinh, tôi muốn tìm điểm gần và có đường tiếp cận phù hợp để giải quyết nhu cầu nhanh.                                | Khách đang di chuyển, gia đình có trẻ nhỏ    | Giả định: mỗi lần cần tìm nhà vệ sinh mất khoảng 3 phút (1 phút tìm vị trí, 2 phút kiểm tra đường đi/khả năng tiếp cận); bấm giờ đến khi chọn được điểm.     |
+|   5 | Tốn thời gian                     | Khi cần mua nước, tôi muốn tìm điểm đang mở và thuận đường để không phải đi vòng.                                                   | Khách tham quan                              | Giả định: mỗi lần cần mua nước mất khoảng 3 phút (2 phút tìm điểm đang mở, 1 phút chọn điểm thuận tuyến); ghi số lần phải hỏi/đi vòng trong một ngày tham quan. |
+|   6 | Cần đọc, tổng hợp nhiều thông tin | Khi muốn ăn, tôi muốn so sánh nhà hàng theo vị trí, giá, thời gian phục vụ và lịch tiếp theo để chọn điểm thuận tiện.               | Nhóm khách, người tổ chức chuyến đi          | Giả định: nhóm so sánh 3 nhà hàng, mất khoảng 6 phút (2 phút/điểm); bấm giờ đến khi chọn xong, đồng thời ghi số lựa chọn phải loại vì không khớp lịch.          |
+|   7 | Pain từ người khác                | Khi nhóm có sở thích khác nhau hoặc bắt đầu mệt, tôi muốn điều chỉnh nhịp độ và hoạt động để cả nhóm vẫn có trải nghiệm phù hợp.    | Gia đình, nhóm bạn                           | Giả định: nhóm 4 người cần khoảng 5 phút (1 phút/người nêu nhu cầu, 1 phút thống nhất) khi bất đồng hoặc cần nghỉ; kiểm tra bằng quan sát, chưa khảo sát khách. |
+|   8 | Lặp lại                           | Khi muốn xem show, tôi muốn biết còn đủ thời gian chơi và di chuyển hay không để tránh bỏ lỡ chương trình.                          | Khách có hoạt động ưu tiên                   | Giả định: nhóm kiểm tra trước 1 show/ngày; mỗi lần mất khoảng 3 phút (1 phút xem lịch, 2 phút đối chiếu thời gian đi bộ); cần ghi số lần thực tế trong ngày.   |
 
 **Nếu có dùng AI để gợi ý thêm:**
 
@@ -229,4 +225,7 @@ Quy trình nháp hiện tại:
 - Worksheet và rubric Lab 02 do giảng viên cung cấp.
 
 - ChatGPT — Đối tác hỗ trợ brainstorm, phản biện và soạn cấu trúc. Nội dung AI không được xem là nguồn độc lập chứng minh số liệu.
+
+```
+
 ```
