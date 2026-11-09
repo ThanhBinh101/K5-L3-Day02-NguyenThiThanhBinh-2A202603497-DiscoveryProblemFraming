@@ -17,16 +17,16 @@
 
 Lăng kính: **Lặp lại** · **Tốn thời gian** · **Cần đọc, tổng hợp nhiều thông tin** · **Pain từ người khác**.
 
-|   # | Lăng kính                         | Job Story: Khi… tôi muốn… để…                                                                                                       | Ai chịu ảnh hưởng?                           | Dấu hiệu (giả định cần kiểm chứng)                                                                                                                            |
-| --: | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   1 | Cần đọc, tổng hợp nhiều thông tin | Khi có nhiều trò chơi để lựa chọn, tôi muốn tìm các trò phù hợp sở thích và điều kiện tham gia để tránh mất thời gian xem từng trò. | Khách tham quan, người lập kế hoạch cho nhóm | Giả định: nhóm so sánh 3 trò, mất khoảng 6 phút (2 phút/trò); kiểm tra bằng cách bấm giờ từ lúc mở danh sách đến khi thống nhất, chưa đo thực tế.               |
-|   2 | Tốn thời gian                     | Khi chọn điểm đến tiếp theo, tôi muốn biết thời gian chờ và thời gian đi bộ để quyết định hợp lý trước khi di chuyển.               | Khách có thời gian tham quan giới hạn        | Giả định: mỗi lần chọn trò mất khoảng 2 phút để tra 2 thông tin (1 phút xem thời gian chờ, 1 phút xem thời gian đi bộ); bấm giờ đến khi quyết định.            |
-|   3 | Pain từ người khác                | Khi trò chơi đông bất ngờ hoặc tạm ngừng, tôi muốn có phương án thay thế để không phải tự làm lại toàn bộ lịch trình.               | Khách đi theo lịch, gia đình                 | Giả định: mỗi lần trò tạm ngừng, nhóm mất khoảng 5 phút (2 phút tìm lựa chọn khác, 3 phút so sánh và thống nhất); ghi số lần phát sinh và bấm giờ từng lần.   |
-|   4 | Lặp lại                           | Khi cần nhà vệ sinh, tôi muốn tìm điểm gần và có đường tiếp cận phù hợp để giải quyết nhu cầu nhanh.                                | Khách đang di chuyển, gia đình có trẻ nhỏ    | Giả định: mỗi lần cần tìm nhà vệ sinh mất khoảng 3 phút (1 phút tìm vị trí, 2 phút kiểm tra đường đi/khả năng tiếp cận); bấm giờ đến khi chọn được điểm.     |
-|   5 | Tốn thời gian                     | Khi cần mua nước, tôi muốn tìm điểm đang mở và thuận đường để không phải đi vòng.                                                   | Khách tham quan                              | Giả định: mỗi lần cần mua nước mất khoảng 3 phút (2 phút tìm điểm đang mở, 1 phút chọn điểm thuận tuyến); ghi số lần phải hỏi/đi vòng trong một ngày tham quan. |
-|   6 | Cần đọc, tổng hợp nhiều thông tin | Khi muốn ăn, tôi muốn so sánh nhà hàng theo vị trí, giá, thời gian phục vụ và lịch tiếp theo để chọn điểm thuận tiện.               | Nhóm khách, người tổ chức chuyến đi          | Giả định: nhóm so sánh 3 nhà hàng, mất khoảng 6 phút (2 phút/điểm); bấm giờ đến khi chọn xong, đồng thời ghi số lựa chọn phải loại vì không khớp lịch.          |
-|   7 | Pain từ người khác                | Khi nhóm có sở thích khác nhau hoặc bắt đầu mệt, tôi muốn điều chỉnh nhịp độ và hoạt động để cả nhóm vẫn có trải nghiệm phù hợp.    | Gia đình, nhóm bạn                           | Giả định: nhóm 4 người cần khoảng 5 phút (1 phút/người nêu nhu cầu, 1 phút thống nhất) khi bất đồng hoặc cần nghỉ; kiểm tra bằng quan sát, chưa khảo sát khách. |
-|   8 | Lặp lại                           | Khi muốn xem show, tôi muốn biết còn đủ thời gian chơi và di chuyển hay không để tránh bỏ lỡ chương trình.                          | Khách có hoạt động ưu tiên                   | Giả định: nhóm kiểm tra trước 1 show/ngày; mỗi lần mất khoảng 3 phút (1 phút xem lịch, 2 phút đối chiếu thời gian đi bộ); cần ghi số lần thực tế trong ngày.   |
+|   # | Lăng kính                         | Job Story: Khi… tôi muốn… để…                                                                                                                                                                                                             | Ai chịu ảnh hưởng?                           | Dấu hiệu (giả định cần kiểm chứng)                                                                                                                                                            |
+| --: | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1 | Cần đọc, tổng hợp nhiều thông tin | Khi có nhiều trò chơi để lựa chọn, tôi muốn tìm các trò phù hợp sở thích và điều kiện tham gia để tránh mất thời gian xem từng trò.                                                                                                       | Khách tham quan, người lập kế hoạch cho nhóm | Giả định: nhóm so sánh 3 trò, mất khoảng 6 phút (2 phút/trò). Khi sắp xếp dễ bỏ lỡ các show yêu thích.                                                                                        |
+|   2 | Tốn thời gian                     | Khi chọn điểm đến tiếp theo, tôi muốn biết thời gian chờ và thời gian đi bộ của từng trờ chơi trong kế hoạch để quyết định hợp lý trước khi di chuyển.                                                                                    | Khách có thời gian tham quan giới hạn        | Khi đến nơi, trò chơi dài phải chờ đợi (có trò phải chờ đến 2 tiếng) -> mất thời gian, mệt, trải nghiệm không tốt                                                                             |
+|   3 | Pain từ người khác                | Khi trò chơi đông bất ngờ hoặc tạm ngừng, tôi muốn có phương án thay thế để không phải tự làm lại toàn bộ lịch trình.                                                                                                                     | Khách đi theo lịch, gia đình                 | Giả định: mỗi lần trò tạm ngừng, nhóm mất khoảng 5 phút (2 phút tìm lựa chọn khác, 3 phút so sánh và thống nhất).                                                                             |
+|   4 | Lặp lại                           | Khi cần nhà vệ sinh tôi muốn tìm điểm gần và có đường tiếp cận phù hợp để giải quyết nhu cầu nhanh và ít thời gian chờ đợi nhất có thể.                                                                                                   | Khách đang di chuyển, gia đình có trẻ nhỏ    | Giả định: mỗi lần cần tìm nhà vệ sinh mất khoảng 3 phút (1 phút tìm vị trí, 2 phút kiểm tra đường đi/khả năng tiếp cận); đôi khi phải chờ 15-30 phút do nơi gần nhất quá đông.                |
+|   5 | Tốn thời gian                     | Khi cần mua nước, tôi muốn tìm điểm đang mở và thuận đường để không phải đi vòng. Tôi cũng muốn tìm nơi phù hợp với sở thích (nước đóng chai hoặc quầy pha chế)                                                                           | Khách tham quan                              | Giả định: mỗi lần cần mua nước mất khoảng 3 phút (2 phút tìm điểm đang mở, 1 phút chọn điểm thuận tuyến); ghi số lần phải hỏi/đi vòng trong một ngày tham quan.                               |
+|   6 | Cần đọc, tổng hợp nhiều thông tin | Khi muốn ăn, tôi muốn so sánh nhà hàng theo vị trí, giá, thời gian phục vụ và lịch tiếp theo để chọn điểm thuận tiện. Ngoài ra tôi muốn được biết trước menu để lựa chọn phù hợp với tình hình gia đình (đi đông/ đi lẻ / người già/ trẻ) | Nhóm khách, người tổ chức chuyến đi          | Giả định: nhóm so sánh 3 nhà hàng, mất khoảng 6 phút (2 phút/điểm); bấm giờ đến khi chọn xong, đồng thời ghi số lựa chọn phải loại vì không khớp lịch. Thời gian chờ đợi xếp hàng order (30p) |
+|   7 | Pain từ người khác                | Khi nhóm có sở thích khác nhau hoặc bắt đầu mệt, tôi muốn điều chỉnh nhịp độ và hoạt động để cả nhóm vẫn có trải nghiệm phù hợp.                                                                                                          | Gia đình, nhóm bạn                           | Giả định: nhóm 4 người cần khoảng 5 phút (1 phút/người nêu nhu cầu, 1 phút thống nhất) khi bất đồng hoặc cần nghỉ; kiểm tra bằng quan sát, chưa khảo sát khách.                               |
+|   8 | Lặp lại                           | Khi muốn xem show, tôi muốn biết còn đủ thời gian chơi và di chuyển hay không để tránh bỏ lỡ chương trình.                                                                                                                                | Khách có hoạt động ưu tiên                   | Giả định: nhóm kiểm tra trước 1 show/ngày; mỗi lần mất khoảng 3 phút (1 phút xem lịch, 2 phút đối chiếu thời gian đi bộ); cần ghi số lần thực tế trong ngày.                                  |
 
 **Nếu có dùng AI để gợi ý thêm:**
 
@@ -42,99 +42,99 @@ Lăng kính: **Lặp lại** · **Tốn thời gian** · **Cần đọc, tổng 
 
 ### Bảng chọn top 3
 
-| Rank | Problem                                                                   | Vì sao chọn                                                                     | Điều còn chưa chắc                                                         |
-| ---: | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-|    1 | Khó chọn và điều chỉnh tuyến theo sở thích, hàng chờ và thời gian còn lại | Gắn với trải nghiệm xuyên suốt ngày tham quan; kết hợp các nhu cầu tôi quan tâm | Baseline, nguồn dữ liệu chờ, tính năng hiện có và mức cải thiện có thể đạt |
-|    2 | Khó tìm tiện ích thuận tiện trong lúc di chuyển                           | Nhu cầu cụ thể, dễ giới hạn phạm vi và kiểm tra kết quả                         | Mức độ thường xuyên; liệu bản đồ hiện tại đã giải quyết đủ tốt chưa        |
-|    3 | Khó chọn nhà hàng phù hợp với hành trình                                  | Kết hợp nhu cầu ăn uống với lịch vui chơi; có thể kiểm chứng giá trị dịch vụ    | Nguồn dữ liệu nhà hàng, tình trạng chờ và hiệu quả tăng thêm               |
+| Rank | Problem                                                                                          | Vì sao chọn                                                                      | Điều còn chưa chắc                                                                                  |
+| ---: | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+|    1 | Khó chọn trò phù hợp sở thích, thời gian chờ và lịch show                                        | Kết nối scan #1–3, #8; có thể kiểm tra cả thời gian ra quyết định lẫn lịch trình | Thời gian chờ có chính xác/cập nhật không; con số chờ đến 2 tiếng và nguy cơ lỡ show cần xác minh   |
+|    2 | Khó tìm tiện ích phù hợp và biết trước khả năng tiếp cận hoặc mức đông                           | Bám sát scan #4–5; nhu cầu phát sinh cụ thể trong lúc di chuyển                   | Tần suất phát sinh; mức chờ 15–30 phút và khả năng cung cấp trạng thái đông cần kiểm chứng          |
+|    3 | Khó chọn nơi ăn phù hợp thực đơn, thành phần gia đình và lịch trình                              | Bám sát scan #6; kết hợp nhu cầu xem menu với thời gian phục vụ                   | Thời gian chờ order 30 phút, dữ liệu menu/trạng thái và lợi ích so với danh sách lọc thông thường   |
 
 ### Problem Card #1
 
-| Trường                  | Nội dung                                                                                                                                                                 |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Job Story               | Khi cần chọn hoặc đổi hoạt động trong khu vui chơi, tôi muốn có phương án phù hợp với sở thích, hàng chờ và thời gian còn lại để hoàn thành nhiều hoạt động ưu tiên hơn. |
-| Actor                   | Người đại diện nhóm khách và các thành viên đi cùng.                                                                                                                     |
-| Thời điểm / bối cảnh    | Khi bắt đầu tham quan, kết thúc một hoạt động hoặc tình hình thay đổi.                                                                                                   |
-| Quy trình hiện tại      | 1. Xác định nhu cầu → 2. Tra bản đồ/lịch → 3. So sánh hoạt động → 4. Kiểm tra hàng chờ → 5. Ghép lại tuyến → 6. Thống nhất lựa chọn.                                     |
-| Bottleneck              | Giả định bước 3–4 tổng 6 phút; bước 5 là 4 phút. Tổng bottleneck 10 phút trong lượt quyết định 15 phút.                                                                  |
-| Impact                  | Khách mất công quyết định, có thể đi vòng hoặc bỏ lỡ hoạt động ưu tiên. Chưa định lượng tác động tài chính.                                                              |
-| Success metric          | Baseline cần đo; giả định ban đầu 15 phút/lượt. Target: p90 quyết định ≤3 phút; giảm chờ thực tế ≥15% so với đối chứng mà không giảm số hoạt động ưu tiên hoàn thành.    |
-| Phương án không dùng AI | Form sở thích + bộ lọc điều kiện + bản đồ + thuật toán tối ưu tuyến.                                                                                                     |
-| Giả thuyết về AI        | LLM giúp diễn đạt nhiều nhu cầu bằng hội thoại, hỏi thông tin thiếu và giải thích phương án dễ hơn bộ lọc.                                                               |
-| Cảm nhận nhanh          | **Workflow**: LLM Feature kết hợp rule và optimizer; chưa cần Agent tự trị.                                                                                              |
+| Trường                  | Nội dung                                                                                                                                                                                                           |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Job Story               | Khi lên lịch hoặc chọn/đổi trò tiếp theo, nhất là lúc trò đông hoặc tạm ngừng, tôi muốn so sánh lựa chọn theo sở thích, điều kiện tham gia, thời gian chờ và đường đi, đồng thời đối chiếu giờ show để ưu tiên hoạt động yêu thích mà không lỡ lịch. |
+| Actor                   | Người đại diện nhóm khách và các thành viên đi cùng.                                                                                                                                                               |
+| Thời điểm / bối cảnh    | Khi lập kế hoạch đầu ngày, sau khi kết thúc một trò hoặc khi hàng chờ/tình trạng hoạt động thay đổi.                                                                                                                |
+| Quy trình hiện tại      | 1. Nêu sở thích/điều kiện → 2. Xem trò phù hợp → 3. Tra hàng chờ và đường đi → 4. Đối chiếu lịch show → 5. Nếu trò quá đông/tạm ngừng, tìm phương án khác → 6. Chọn và thống nhất hoạt động tiếp theo.                 |
+| Bottleneck              | Theo giả định ở scan #1, so sánh 3 trò mất khoảng 6 phút; scan #2 ước tính tra chờ và đường đi mất 2 phút/lượt chọn; đối chiếu show khoảng 3 phút/lần (scan #8); tìm phương án khi trò tạm ngừng khoảng 5 phút/lần (scan #3). Các số này chưa đo thực tế. |
+| Impact                  | Có thể mất thời gian quyết định, gặp thời gian chờ dài (scan nêu có thể đến 2 tiếng; cần xác minh), hoặc bỏ lỡ show yêu thích. Thời gian xếp hàng là thời gian trải nghiệm, không cộng vào thời gian tìm/chọn phương án. |
+| Success metric          | Đo baseline thời gian chọn phương án và tỷ lệ hoàn thành trò/show đã ưu tiên. Mục tiêu thử nghiệm: p90 chọn phương án ≤3 phút và không giảm tỷ lệ hoàn thành hoạt động ưu tiên; theo dõi riêng sai lệch giữa thời gian chờ hiển thị và thực tế. |
+| Phương án không dùng AI | Bộ lọc sở thích/điều kiện tham gia + lịch show + dữ liệu hàng chờ có dấu thời gian + quy tắc sắp xếp tuyến.                                                                                                        |
+| Giả thuyết về AI        | LLM có thể nhận yêu cầu nhiều điều kiện bằng hội thoại và giải thích đánh đổi; cần kiểm tra xem có tốt hơn form/bộ lọc hay không.                                                                                   |
+| Cảm nhận nhanh          | **Workflow**: LLM Feature tùy chọn kết hợp rule và optimizer; chưa cần Agent tự trị.                                                                                                                                 |
 
 Quy trình nháp hiện tại:
 
-1. Khách xác định nhu cầu.
-2. 🔄 Khách tra bản đồ và lịch trên ứng dụng.
-3. Khách đối chiếu hoạt động với sở thích. 🔴
-4. 🔄 Khách hỏi nhân viên hoặc xem bảng hàng chờ. 🔴
-5. Khách ghép lại tuyến. 🔴
-6. Nhóm thống nhất lựa chọn.
+1. Khách nêu sở thích và điều kiện tham gia.
+2. 🔄 So sánh các trò phù hợp (giả định 3 trò, khoảng 6 phút). 🔴
+3. 🔄 Tra thời gian chờ và đường đi (giả định khoảng 2 phút/lượt chọn). 🔴
+4. Đối chiếu giờ show và thời gian di chuyển (giả định khoảng 3 phút/lần).
+5. Nếu trò quá đông/tạm ngừng, tìm phương án thay thế (giả định khoảng 5 phút/lần).
+6. Nhóm thống nhất trò tiếp theo.
 
-**Tổng giả định: 15 phút/lượt; không gồm đi bộ, chơi và xếp hàng.**
+Các mốc 6, 2, 3 và 5 phút là giả định từ scan #1–3, #8, cần bấm giờ để xác minh; không gồm thời gian chơi, đi bộ, hoặc xếp hàng. Thời gian chờ trò chơi (scan nêu có thể đến 2 tiếng) là một đại lượng riêng, chưa có nguồn đo xác nhận.
 
 ### Problem Card #2
 
-| Trường                  | Nội dung                                                                                                                             |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| Job Story               | Khi cần nhà vệ sinh, nước hoặc chỗ nghỉ, tôi muốn tìm điểm phù hợp gần mình hoặc thuận tuyến để giải quyết nhu cầu mà không đi vòng. |
-| Actor                   | Khách đang di chuyển, đặc biệt gia đình có trẻ nhỏ hoặc người cần đường tiếp cận phù hợp.                                            |
-| Thời điểm / bối cảnh    | Khi phát sinh nhu cầu trong ngày tham quan.                                                                                          |
-| Quy trình hiện tại      | 1. Phát sinh nhu cầu → 2. Mở bản đồ/hỏi nhân viên → 3. Kiểm tra vị trí, giờ mở → 4. Chọn điểm → 5. Bắt đầu di chuyển.                |
-| Bottleneck              | Giả định bước 2–3 mất 4 phút; tổng quyết định 6 phút, chưa tính đi bộ.                                                               |
-| Impact                  | Khách có thể mất thời gian, đi vòng hoặc đến điểm không phù hợp.                                                                     |
-| Success metric          | Baseline cần đo. Target: p90 phản hồi có kết quả ≤10 giây; ≥95% gợi ý đúng vị trí và trạng thái theo nguồn kiểm chứng.               |
-| Phương án không dùng AI | Bản đồ với nút NVS/Nước/Nghỉ và tìm kiếm theo khoảng cách đường đi.                                                                  |
-| Giả thuyết về AI        | Có ích khi yêu cầu chứa ngữ cảnh như “mua nước tiện đường đến show”; không cần thiết cho mọi câu hỏi gần nhất.                       |
-| Cảm nhận nhanh          | **Rule** cho tìm kiếm đơn giản; **Workflow** khi cần hội thoại nhiều điều kiện.                                                      |
+| Trường                  | Nội dung                                                                                                                                                                                    |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Job Story               | Khi cần nhà vệ sinh hoặc mua nước, tôi muốn tìm điểm đang mở, thuận đường và phù hợp nhu cầu (như loại nước hoặc khả năng tiếp cận) để không đi vòng hay phải chờ lâu ở điểm quá đông.      |
+| Actor                   | Khách đang di chuyển, đặc biệt gia đình có trẻ nhỏ hoặc người cần đường tiếp cận phù hợp.                                                                                                    |
+| Thời điểm / bối cảnh    | Khi phát sinh nhu cầu trong ngày tham quan.                                                                                                                                                 |
+| Quy trình hiện tại      | 1. Phát sinh nhu cầu → 2. Tìm tiện ích/hỏi nhân viên → 3. Kiểm tra vị trí, trạng thái và đường đi → 4. Chọn điểm → 5. Di chuyển và sử dụng.                                               |
+| Bottleneck              | Scan #4–5 ước tính tìm và chọn điểm mất khoảng 3 phút/lần. Scan #4 nêu có lúc chờ 15–30 phút ở nhà vệ sinh gần nhất; đây là thời gian chờ sử dụng, không phải thời gian tìm kiếm, cần xác minh. |
+| Impact                  | Có thể đi vòng, chọn nhầm điểm không phù hợp hoặc phải chờ ở điểm đông; tác động rõ hơn với gia đình có trẻ nhỏ/người cần tiếp cận thuận tiện.                                               |
+| Success metric          | Đo riêng thời gian tìm/chọn, quãng đường đi vòng và thời gian chờ thực tế. Mục tiêu thử nghiệm: p90 tìm được điểm phù hợp ≤10 giây; ≥95% gợi ý đúng vị trí/trạng thái từ nguồn kiểm chứng. |
+| Phương án không dùng AI | Bản đồ phân loại nhà vệ sinh/nước, lọc trạng thái và khả năng tiếp cận, sắp xếp theo đường đi.                                                                                               |
+| Giả thuyết về AI        | Hội thoại có thể hiểu yêu cầu kết hợp như loại nước và điểm thuận đường; tìm điểm gần nhất đơn giản có thể giải quyết bằng bộ lọc thông thường.                                               |
+| Cảm nhận nhanh          | **Rule** cho tìm kiếm cơ bản; **Workflow** khi cần kết hợp nhiều điều kiện và giải thích lựa chọn.                                                                                            |
 
 Quy trình nháp hiện tại:
 
-1. Khách phát sinh nhu cầu.
-2. 🔄 Tra bản đồ hoặc hỏi nhân viên.
-3. Kiểm tra vị trí và khả năng sử dụng. 🔴
-4. Chọn tiện ích.
+1. Khách phát sinh nhu cầu (nhà vệ sinh hoặc mua nước).
+2. 🔄 Tìm tiện ích trên bản đồ hoặc hỏi nhân viên (scan ước tính tìm/chọn khoảng 3 phút). 🔴
+3. Kiểm tra điểm đang mở, đường đi và khả năng tiếp cận.
+4. Chọn điểm; nếu là nhà vệ sinh, ghi riêng thời gian chờ sử dụng (scan nêu 15–30 phút, cần kiểm chứng).
 5. Di chuyển đến điểm đã chọn.
 
 ### Problem Card #3
 
-| Trường                  | Nội dung                                                                                                                                                  |
-| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Job Story               | Khi muốn ăn nhưng vẫn có lịch vui chơi, tôi muốn chọn nhà hàng phù hợp ngân sách và thuận đường để không mất nhiều thời gian hoặc lỡ hoạt động tiếp theo. |
-| Actor                   | Nhóm khách cần ăn trong khung giờ giới hạn.                                                                                                               |
-| Thời điểm / bối cảnh    | Trước giờ ăn hoặc khi cần thay đổi kế hoạch.                                                                                                              |
-| Quy trình hiện tại      | 1. Tìm nhà hàng → 2. Xem thực đơn/giá → 3. Kiểm tra chờ → 4. Đối chiếu lịch và đường đi → 5. Chọn phương án.                                              |
-| Bottleneck              | Giả định bước 3–4 mất 6 phút trong tổng quyết định 10 phút.                                                                                               |
-| Impact                  | Có thể chọn điểm bất tiện, chờ lâu hoặc không đủ thời gian đến hoạt động đã định.                                                                         |
-| Success metric          | Baseline cần đo. Target: p90 chọn phương án ≤3 phút; 100% phương án hiển thị vượt kiểm tra mốc cố định đã biết.                                           |
-| Phương án không dùng AI | Danh sách nhà hàng có bộ lọc giá, vị trí, giờ mở và tính thời gian di chuyển.                                                                             |
-| Giả thuyết về AI        | Hiểu yêu cầu nhiều điều kiện và giải thích đánh đổi giữa các phương án.                                                                                   |
-| Cảm nhận nhanh          | **Workflow**, với điều kiện dữ liệu đủ tin cậy.                                                                                                           |
+| Trường                  | Nội dung                                                                                                                                                                                                                                                                                       |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Job Story               | Khi cần ăn trong ngày tham quan, tôi muốn xem trước menu và chọn nơi phù hợp với ngân sách, lịch trình, số lượng người và nhu cầu của gia đình (người lớn tuổi/trẻ nhỏ) để cả nhóm ăn phù hợp mà không lỡ hoạt động tiếp theo.                                                                 |
+| Actor                   | Người đại diện nhóm và các thành viên cần lựa chọn bữa ăn phù hợp.                                                                                                                                                                                                                            |
+| Thời điểm / bối cảnh    | Trước giờ ăn hoặc khi lịch trình thay đổi; cần cân nhắc cả thời gian order và hoạt động tiếp theo.                                                                                                                                                                                             |
+| Quy trình hiện tại      | 1. Tìm nhà hàng → 2. Xem menu/giá và nhu cầu nhóm → 3. Kiểm tra thời gian chờ/order → 4. Đối chiếu vị trí, đường đi và lịch tiếp theo → 5. Nhóm thống nhất lựa chọn.                                                                                                                          |
+| Bottleneck              | Scan #6 ước tính so sánh 3 nhà hàng mất khoảng 6 phút (2 phút/điểm); thời gian chờ order 30 phút là con số cần xác minh riêng, không cộng vào thời gian ra quyết định.                                                                                                                        |
+| Impact                  | Có thể chọn nơi không phù hợp với thành viên, chờ lâu hoặc không kịp hoạt động tiếp theo.                                                                                                                                                                                                      |
+| Success metric          | Đo thời gian chọn, độ chính xác/cập nhật của menu và sai lệch thời gian chờ hiển thị so với thực tế. Mục tiêu thử nghiệm: p90 chọn nhà hàng ≤3 phút và thông tin menu được xác minh trước khi hiển thị; không cam kết giảm thời gian phục vụ khi chưa có dữ liệu.                                  |
+| Phương án không dùng AI | Danh sách nhà hàng có menu, giá, thông tin tiếp cận và bộ lọc theo vị trí, giờ mở, nhu cầu nhóm; hiển thị thời gian chờ nếu có nguồn đáng tin cậy.                                                                                                                                             |
+| Giả thuyết về AI        | AI có thể diễn giải yêu cầu nhóm nhiều điều kiện và tóm tắt điểm phù hợp/đánh đổi; cần so sánh với bộ lọc menu và tiêu chí có cấu trúc.                                                                                                                                                        |
+| Cảm nhận nhanh          | **Workflow** nếu menu/trạng thái có nguồn đủ tin cậy; nếu không, bắt đầu bằng danh sách/bộ lọc với dữ liệu đã xác minh.                                                                                                                                                                         |
 
 Quy trình nháp hiện tại:
 
-1. Tìm nhà hàng.
-2. Xem thực đơn và giá.
-3. 🔄 Hỏi hoặc kiểm tra tình trạng chờ. 🔴
-4. So sánh với tuyến và giờ hoạt động tiếp theo. 🔴
-5. Thống nhất điểm ăn.
+1. Nêu nhu cầu bữa ăn và thành phần nhóm.
+2. 🔄 Tìm nhà hàng, so sánh menu/giá của khoảng 3 lựa chọn (giả định khoảng 6 phút). 🔴
+3. 🔄 Hỏi hoặc kiểm tra thời gian chờ order (scan nêu 30 phút, cần xác minh). 🔴
+4. Đối chiếu vị trí, đường đi và lịch hoạt động tiếp theo.
+5. Nhóm thống nhất điểm ăn.
 
 ### Card muốn pitch nhất
 
 - **Card số:** 1.
-- **Vì sao:** Đây là quyết định trung tâm của hành trình; hai card còn lại có thể trở thành nhu cầu hỗ trợ trong cùng trải nghiệm.
-- **Câu hỏi muốn nhóm phản biện:** Dữ liệu chờ có đủ tin cậy không? App hiện tại đã giải quyết đến đâu? Lớp hội thoại có tốt hơn form và bộ lọc đủ để bù chi phí không?
+- **Vì sao:** Card #1 kết nối việc chọn trò theo sở thích/điều kiện với hàng chờ và nguy cơ lỡ show; đây là nhu cầu xuyên suốt chuyến đi.
+- **Câu hỏi muốn nhóm phản biện:** Con số chờ đến 2 tiếng và nguy cơ lỡ show có bằng chứng nào? App hiện tại đã hiển thị lịch/chờ chưa? Dữ liệu có cập nhật đủ tin cậy, và hội thoại có tốt hơn bộ lọc không?
 
 ### AI đã phản biện card thế nào
 
-| Điểm yếu AI chỉ ra                                  | Đồng ý? | Đã sửa gì                                                    |
-| --------------------------------------------------- | ------- | ------------------------------------------------------------ |
-| Thời gian 15 phút chưa có baseline thực tế          | Có      | Đánh dấu giả định, đề xuất quan sát trước khi đưa ra cam kết |
-| App có thể đã có chức năng lịch trình               | Có      | Chuyển định vị sang xác minh và nâng cấp khoảng trống        |
-| Thuật toán thông thường có thể tạo phần lớn giá trị | Có      | Tách LLM khỏi rule/optimizer và đề xuất so sánh có/không LLM |
-| Dữ liệu chờ có thể thiếu hoặc cũ                    | Có      | Thêm dấu thời gian, ngưỡng hết hạn và fallback               |
-| Giảm chờ chưa chắc làm khách hài lòng hơn           | Có      | Bổ sung số hoạt động ưu tiên hoàn thành và mức hài lòng      |
+| Điểm yếu AI chỉ ra                                                    | Đồng ý? | Đã sửa gì                                                                                              |
+| --------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------ |
+| Các mốc 2 tiếng, 15–30 phút và 30 phút chưa có nguồn/đo lường rõ ràng | Có      | Ghi là số cần kiểm chứng; tách thời gian tìm/chọn khỏi thời gian xếp hàng hoặc sử dụng                |
+| App có thể đã có chức năng bản đồ, lịch show hoặc thông tin nhà hàng  | Có      | Chuyển định vị sang xác minh tính năng hiện hữu và tìm khoảng trống cụ thể                            |
+| Thuật toán/bộ lọc thông thường có thể tạo phần lớn giá trị             | Có      | Tách LLM khỏi rule/optimizer và đề xuất so sánh có/không LLM                                           |
+| Dữ liệu chờ, menu hoặc trạng thái tiện ích có thể thiếu/cũ             | Có      | Chỉ hiển thị thông tin có nguồn và dấu thời gian; đặt ngưỡng hết hạn, fallback khi không có dữ liệu   |
+| Giảm thời gian chờ không hoàn toàn nằm trong quyền kiểm soát sản phẩm  | Có      | Đo riêng thời gian quyết định, sai lệch dự báo và tỷ lệ hoàn thành hoạt động ưu tiên; không hứa giảm hàng chờ |
 
 ---
 
@@ -147,7 +147,7 @@ Quy trình nháp hiện tại:
 | Pitch Problem Card         | Đã chuẩn bị cách giới thiệu vấn đề từ góc nhìn khách và các câu trả lời phản biện            | Có nội dung để pitch; [điền kết quả trình bày thực tế]                              |
 | Phản biện bài của bạn khác | Đã chuẩn bị câu hỏi về nguồn số liệu, baseline, vai trò AI và ROI của case chống gian lận    | [Điền câu đã thực sự hỏi và phản hồi nhận được]                                     |
 | Nhận phản biện             | Trong trao đổi với AI, nhận câu hỏi về dữ liệu chờ, tính năng hiện hữu và phương án không AI | Đã thu hẹp phạm vi, bổ sung giả định và fallback; [bổ sung phản biện từ người thật] |
-| Gom cluster / cây OST      | Đề xuất ba cụm: chọn hoạt động, điều chỉnh tuyến, tìm tiện ích                               | [Chưa xác nhận nhóm đã lập OST; cập nhật kết quả thật]                              |
+| Gom cluster / cây OST      | Đề xuất các cụm: chọn/đổi trò và canh giờ show; tìm tiện ích; chọn bữa ăn theo nhu cầu nhóm   | [Chưa xác nhận nhóm đã lập OST; cập nhật kết quả thật]                              |
 | Chọn candidate problem     | Cá nhân ưu tiên Card #1                                                                      | [Cập nhật quyết định chính thức của nhóm]                                           |
 | Kiểm chứng / research      | Dùng AI hỗ trợ tìm và đối chiếu nguồn công khai; phân biệt review với khảo sát               | Nhận ra cần kiểm tra chức năng app hiện có; chưa có phỏng vấn/survey                |
 | Quy trình nhóm             | Đã chuẩn bị mô hình current-state 4 làn, 6 bước và handoff                                   | Có sơ đồ nháp; thời gian cần xác minh và nhóm review                                |
@@ -161,8 +161,8 @@ Quy trình nháp hiện tại:
 
 | Checkpoint                     | Tôi dùng AI để làm gì?                         | AI hữu ích ở đâu?                               | AI sai hoặc hời hợt ở đâu?                                          | Tôi sửa gì bằng nhận định của mình?                                             |
 | ------------------------------ | ---------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| CP1 Scan                       | Mở rộng các vấn đề quanh hành trình VinWonders | Phân tách sở thích, hàng chờ, tuyến và tiện ích | Có thể mở rộng thành quá nhiều tính năng                            | Giữ nhu cầu tôi đã nêu, bỏ đặt phòng và thanh toán khỏi MVP                     |
-| CP2 Problem Card               | Viết card và stress-test như CFO/vận hành      | Đặt câu hỏi về actor, bottleneck và metric      | Số liệu ước tính dễ bị hiểu là số thật                              | Gắn nhãn giả định và yêu cầu đo baseline                                        |
+| CP1 Scan                       | Mở rộng các vấn đề quanh hành trình VinWonders | Phân tách sở thích, hàng chờ, tuyến, show, tiện ích và nhu cầu ăn uống của nhóm | Có thể mở rộng thành quá nhiều tính năng                  | Giữ các nhu cầu đã nêu, bỏ đặt phòng và thanh toán khỏi MVP                     |
+| CP2 Problem Card               | Viết card và stress-test như CFO/vận hành      | Đặt câu hỏi về actor, bottleneck và metric      | Số liệu ước tính dễ bị hiểu là số thật                              | Ghi rõ giả định; tách thời gian tìm/chọn khỏi thời gian xếp hàng và đo baseline |
 | CP4 Research                   | Tìm nguồn công khai về app và tiền lệ ngành    | Giúp nhận diện chức năng đã được giới thiệu     | Review riêng lẻ không chứng minh mức phổ biến hoặc ROI              | Chỉ dùng làm tín hiệu định tính; cần khảo sát thêm                              |
 | CP5 Quy trình                  | Mô hình hóa swimlane, bước và handoff          | Làm rõ trách nhiệm và đầu vào/đầu ra            | Sơ đồ có thể khiến quy trình giả định trông như thực tế đã xác minh | Ghi rõ phạm vi lượt quyết định và không bắt quản lý duyệt từng tuyến            |
 | CP5–6 Problem Statement        | Viết 6-field, metric và boundary               | Tách nhu cầu khỏi giải pháp                     | Dễ trộn thời gian khách, giờ nhân viên và tiền tiết kiệm            | Không quy thời gian khách thành tiền; tách trung bình khỏi p90                  |
@@ -225,7 +225,3 @@ Quy trình nháp hiện tại:
 - Worksheet và rubric Lab 02 do giảng viên cung cấp.
 
 - ChatGPT — Đối tác hỗ trợ brainstorm, phản biện và soạn cấu trúc. Nội dung AI không được xem là nguồn độc lập chứng minh số liệu.
-
-```
-
-```
