@@ -7,7 +7,7 @@
 - Họ tên: Nguyễn Anh Tú
 - MSSV: 2A202603434
 - Email trường (không bắt buộc, repo có thể để public):
-- Tên nhóm: ………
+- Tên nhóm: 7A
 - Link repo nhóm: https://github.com/ThanhBinh101/K5-L3-Day02-NguyenThiThanhBinh-2A202603497-DiscoveryProblemFraming
 
 ---
@@ -175,17 +175,17 @@ Tôi dán 3 card cho AI (Claude), đóng vai PM hoài nghi, và AI chỉ ra các
 | Hoạt động | Tôi đã làm gì? | Kết quả / ảnh hưởng tới bài nhóm |
 |---|---|---|
 | Pitch Problem Card | Tôi pitch card 1 (xe VinFast báo lỗi, khó biết nặng hay nhẹ) | Card của tôi là một trong các card nhóm cân nhắc; nhóm sau đó ghép và sửa từ nhiều card để chọn candidate |
-| Phản biện bài của bạn khác | Câu hỏi tôi đã đặt: tôi hỏi lần gần nhất chuyện đó xảy ra là khi nào và mất bao lâu. ……… | ……… |
-| Nhận phản biện | Câu hỏi tôi nhận được: có cần AI không, hay sửa quy trình là đủ. ……… | Tôi đã sửa gì: ……… |
-| Gom cluster / cây OST | ……… | |
-| Chọn candidate problem | Nhóm ghép và sửa từ nhiều card để chọn candidate. Nhóm từng nói giải pháp trước khi rõ vấn đề (solution-first), rồi nhận ra và sửa. ……… | Candidate cuối của nhóm: ……… |
-| Kiểm chứng / research | Nhóm kiểm chứng bằng phỏng vấn 2–3 người và research giải pháp đã có. ……… | |
-| Quy trình nhóm | ……… | |
-| Problem Statement | ……… | |
-| Mức can thiệp AI | Tôi phụ trách phần mức can thiệp AI. Nhóm chọn mức Agent | ……… |
-| Quyết định | Tôi phụ trách phần quyết định. Nhóm quyết định Go (pilot nhỏ) | ……… |
+| Phản biện bài của bạn khác | Tôi hỏi lần gần nhất chuyện đó xảy ra là khi nào và mất bao lâu, rồi hỏi tiếp có cần AI không hay danh sách, bộ lọc, bảng tính là đủ. Tôi hỏi các card của Hoàng Minh Huy (học ngoại ngữ trực tuyến), Nguyễn Thị Thanh Bình (chọn bữa ăn cho gia đình) và Đặng Long Nhật (kiểm tra máy lab). | Tôi chỉ ra số liệu trong các card còn là giả định hoặc mô phỏng chứ chưa phải số đo thật. Họ giải thích các con số trong card của mình lấy từ đâu (trong bảng nhóm, số của Bình ghi là giả định, số của Nhật ghi là mô phỏng). |
+| Nhận phản biện | Hoàng Minh Huy hỏi card 1: nếu mô tả triệu chứng chưa đủ để đánh giá nguy hiểm thì làm sao tránh đánh giá thấp lỗi, và khi không chắc có nên hướng người dùng đến kỹ thuật viên/cứu hộ. Thanh Bình hỏi card 2: sự cố lần gần nhất là gì, 3 ngày tính đến lúc nào, cư dân phải liên hệ lại mấy lần. Đặng Long Nhật hỏi card 3: dùng tiêu chí nào để xác định điểm đón đông, vấn đề ở đâu, khung giờ nào. | Tôi đã sửa gì: bảng nhóm hiện ghi rõ card 1 (1–3 ngày) và card 2 (3 ngày) là lời kể, card 3 (5–10 phút) là ước lượng chưa đo. Card 2 ghi thêm cần xác định loại sự cố và trạng thái phiếu. |
+| Gom cluster / cây OST | Tôi tham gia gom cluster và dựng cây OST cùng nhóm. Nhóm gom các candidate thành 3 cluster (A, B, C). | Cây OST của nhóm có 1 outcome và 3 opportunity, đã gạch bỏ các ý là giải pháp đội lốt opportunity. |
+| Chọn candidate problem | Nhóm ghép và sửa từ nhiều card để chọn candidate. Nhóm từng nói giải pháp trước khi rõ vấn đề (solution-first), rồi nhận ra và sửa. | Candidate cuối của nhóm: đối chiếu tình trạng 12 máy trước ca lab (candidate của Đặng Long Nhật, 27/35 điểm). Card VinFast của tôi được 21/35 và chưa được chọn, vì pain chưa có bằng chứng và còn vướng phạm vi an toàn của tư vấn lỗi xe |
+| Kiểm chứng / research | Nhóm kiểm chứng bằng phỏng vấn 2–3 người và research giải pháp đã có. Tôi dùng AI để tìm các giải pháp đã có (ghi ở mục 5). | |
+| Quy trình nhóm | Tôi tham gia vẽ quy trình nhóm | |
+| Problem Statement | Tôi góp ý để câu vấn đề không lẫn giải pháp (xem 6.5) | |
+| Mức can thiệp AI | Tôi phụ trách phần mức can thiệp AI. Nhóm chọn mức Agent | Lý do chọn Agent và vì sao Workflow không đủ: mỗi ca lab có ghi chú lỗi bàn giao và dữ liệu khác nhau (mã máy thiếu, trùng hoặc mô tả mơ hồ), nên AI cần tự quyết bước tiếp theo (hỏi lại người trực, đối chiếu thêm nguồn hoặc gắn "chưa rõ") thay vì đi theo bước định sẵn. AI chỉ đề xuất, người trực xác nhận mọi thay đổi trạng thái; nếu AI sai thì quay về Workflow hoặc Rule. |
+| Quyết định | Tôi phụ trách phần quyết định. Nhóm quyết định Go (pilot nhỏ) | Pilot nhỏ nhất: một ca lab thật với 12 máy, chạy vài ca liên tiếp, đo thời gian đối chiếu thật bằng đồng hồ. Ngưỡng dừng: nếu thời gian đối chiếu không giảm so với baseline đo thật, hoặc AI báo sai "dùng được" cho một máy thực sự lỗi dù chỉ một lần, thì dừng bước AI và quay về Rule hoặc bảng mẫu. |
 
-**Một lần đổi ý cụ thể:** tôi vừa đổi ý sau khi bị phản biện vừa làm người khác đổi ý, liên quan đến ranh giới (AI được làm gì, không được làm gì). ………
+**Một lần đổi ý cụ thể:** sau câu hỏi của Hoàng Minh Huy về việc đánh giá thấp lỗi, tôi đổi ranh giới của card 1. Trước đó tôi nghĩ AI chỉ cần gợi ý mức khẩn cấp, còn chủ xe tự quyết định có đi tiếp hay không. Sau đó tôi chốt: hệ thống không được kết luận xe an toàn, và khi không chắc thì hướng người dùng đến kỹ thuật viên hoặc cứu hộ. Phần này đi vào mục 2.4 của báo cáo nhóm, chỗ lý do chưa chọn candidate VinFast (phạm vi an toàn của tư vấn lỗi xe).
 
 ---
 
@@ -195,7 +195,7 @@ Tôi dán 3 card cho AI (Claude), đóng vai PM hoài nghi, và AI chỉ ra các
 |---|---|---|---|---|
 | CP1 Scan | Hỏi AI gợi ý các vấn đề trong hệ sinh thái Vingroup và dựng khung bảng Job Story | Gợi ý nhanh 8 vấn đề theo 4 lăng kính, viết Job Story đúng mẫu | Gợi ý chung chung, có ý tôi không có trải nghiệm (Vinmec, VinID); AI không có số liệu thật nên để trống cột dấu hiệu | Giữ 6 vấn đề tôi gặp hoặc biết người gặp, bỏ 2 ý còn lại; tự cung cấp ước lượng và lời kể; ghi rõ số nào là ước lượng và nguồn của nó |
 | CP2 Problem Card | Nhờ AI dựng khung card, quy trình nháp, bảng chấm top 3 và phản biện | AI chỉ ra baseline yếu, bottleneck mơ hồ, target chưa có cơ sở, và card 3 có thể không cần AI | AI tự điền thời gian từng bước trong quy trình nháp, chưa có trong dữ liệu của tôi | Tôi tự chọn lại thời gian cho các bước AI còn thiếu (chẩn đoán ở xưởng, ghi nhận phản ánh, sửa sự cố, lên xe), gộp các bước nối liền thay vì để AI bịa số, ghi rõ giới hạn của từng card và ghi target là đề xuất chưa kiểm chứng |
-| CP4 Research | Dùng AI để tìm các giải pháp đã có cho bài toán | ……… | Tôi không ghi nhận được chỗ AI sai ở bước này. | ……… |
+| CP4 Research | Dùng AI để tìm các giải pháp đã có cho bài toán | Chỉ ra khoảng trống và rủi ro của các giải pháp đã có (giải pháp nào chưa giải được bước nào trong quy trình). | Tôi không ghi nhận được chỗ AI sai ở bước này. | Tôi đã tự mở và đọc hết các link AI đưa ra. |
 | CP5 Quy trình | Không dùng AI ở bước này | | | |
 | CP5–6 Problem Statement | Không dùng AI ở bước này | | | |
 | CP6 Mức can thiệp / quyết định | Không dùng AI ở bước này | | | |
@@ -207,38 +207,37 @@ Tôi dán 3 card cho AI (Claude), đóng vai PM hoài nghi, và AI chỉ ra các
 
 **6.1. Tôi học được gì khi nghe top 3 problems của các bạn khác?**
 
-
+“Khi nghe các bạn trình bày, tôi nhận ra một card mạnh khi có actor rõ, quy trình thật, bottleneck cụ thể và impact đo được. Tôi cũng học được rằng việc nhỏ nhưng lặp lại hàng tuần vẫn đáng giải quyết, vì nó có thể tốn thời gian và sức lực hơn ta tưởng.”
 ………
 
 **6.2. Nhóm có lúc nào bị "solution-first" (nghĩ giải pháp trước khi hiểu vấn đề) không? Lúc đó nhóm nhận ra và xử lý thế nào?**
 
-
+“Nhóm từng bị solution-first: có những ý đi thẳng đến giải pháp như ‘dùng AI nhận diện lỗi và tự đánh dấu máy dùng được’ hoặc ‘làm dashboard/app mới’ khi chưa rõ vấn đề. Nhóm nhận ra và gạch các ý này khỏi cây OST vì chúng là giải pháp, không phải opportunity.”
 ………
 
 **6.3. Tôi có đổi ý sau khi bị phản biện không? Kể một lần cụ thể.**
 
-
+“Ban đầu tôi nghĩ AI chỉ cần gợi ý mức khẩn cấp và chủ xe tự quyết định. Khi Hoàng Minh Huy hỏi làm sao tránh đánh giá thấp lỗi khiến chủ xe tiếp tục lái không an toàn, tôi đổi ý: hệ thống không được kết luận xe an toàn, và khi không chắc thì hướng người dùng đến kỹ thuật viên hoặc cứu hộ.”
 ………
 
 **6.4. Kết quả kiểm chứng (phỏng vấn/survey/research) có làm tôi bất ngờ không? Điều gì?**
 
-
+"Có, tôi bị bất ngờ vì cảm giác “đây là việc rất nhỏ” nhưng lại là việc mà nhiều người đều làm lặp lại và đều thấy mệt. Khi kiểm chứng, tôi nhận ra người khác cũng có cùng pattern: họ phải đọc lại rubric, tìm file cũ, lục trên nhiều nguồn, rồi mới biết mình thiếu gì."
 ………
 
 **6.5. Điều khó nhất khi viết Problem Statement là gì?**
 
-
+“Điều khó nhất là không lẫn giải pháp vào vấn đề. Tôi phải tránh viết ‘cần AI’ và chỉ mô tả actor, quy trình, bottleneck, impact, boundary và metric.”
 ………
 
 **6.6. Nếu làm lại, tôi sẽ đổi gì? Tôi sẽ phản biện nhóm mạnh hơn ở điểm nào?**
 
-
+“Nếu làm lại, tôi sẽ đo thời gian thật và xác định bottleneck kỹ hơn, không chấp nhận problem chỉ nghe có vẻ đau mà thiếu thời gian, tần suất và bằng chứng. Tôi cũng sẽ phản biện mạnh hơn bằng hai câu: đây có phải problem của cả nhóm hay chỉ của cá nhân tôi, và cách đơn giản nhất nếu không dùng AI là gì?”
 ………
 
 **6.7. Hiểu bài:** giải thích bằng 5–8 câu, không nhìn tài liệu, chuỗi *problem → quy trình → metric → boundary → mức can thiệp AI → quyết định* của bài nhóm mình.
 
-*Gợi ý cho bạn viết, theo thứ tự:* (1) vấn đề nhóm chọn và ai gặp; (2) quy trình hiện tại và bước nghẽn; (3) metric từ bao nhiêu xuống bao nhiêu và cách đo; (4) AI không được làm gì; (5) mức nhóm chọn (Agent) và vì sao Workflow không đủ; (6) quyết định (Go) và ngưỡng dừng.
-
+“Vấn đề nhóm chọn là khi sinh viên CNTT trực phòng lab kiểm tra máy trước ca học, họ phải đối chiếu kết quả kiểm tra và lỗi bàn giao theo đúng mã máy để báo giảng viên máy nào dùng được và máy nào cần đổi. Quy trình hiện tại gồm kiểm tra máy, đối chiếu kết quả với lỗi bàn giao theo mã máy, rồi báo giảng viên. Theo số liệu mô phỏng, bước đối chiếu mất khoảng 12 phút trong tổng 28 phút mỗi ca, và 4 trong 5 ca vượt mốc 25 phút. Metric là thời gian đối chiếu mỗi ca, baseline 12 phút (số mô phỏng, chưa đo thật), target, đo bằng bấm giờ ở ca lab thật. Boundary là trạng thái máy phải dựa trên kết quả kiểm tra và do người trực xác nhận, AI chỉ đề xuất và không tự gắn ‘dùng được’. Nhóm chọn mức Agent vì mỗi ca có ghi chú và dữ liệu khác nhau, nên AI cần tự quyết bước tiếp theo, kèm phương án quay về Workflow hoặc Rule nếu AI sai. Quyết định là Go cho một pilot nhỏ để đo số thật. Nếu thời gian đối chiếu không giảm so với baseline đo thật, hoặc AI báo sai ‘dùng được’ cho một máy lỗi, thì dừng và quay về Rule hoặc bảng mẫu.”
 ………
 
 ---
