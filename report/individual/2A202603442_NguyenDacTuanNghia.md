@@ -215,5 +215,6 @@ Nếu được làm lại, tôi sẽ yêu cầu nhóm phải đi đo baseline th
 
 **6.7. Hiểu bài:** giải thích bằng 5–8 câu, không nhìn tài liệu, chuỗi *problem → quy trình → metric → boundary → mức can thiệp AI → quyết định* của bài nhóm mình. 
 Bài toán giải quyết việc sinh viên trực lab mất thời gian đối chiếu ghi chú bàn giao lỗi với 12 máy trước giờ học. Quy trình 5 bước được giữ nguyên, riêng bước 3 được hỗ trợ bằng bộ lọc tự động ghép lỗi theo mã máy. Success Metric hướng tới giảm thời gian ca từ 28 phút (mô phỏng) xuống ≤ 20 phút/ca và đạt 0 máy báo sai "Dùng được". Ranh giới (Boundary) xác định hệ thống chỉ hỗ trợ hiển thị dữ liệu, người trực lab là bên duy nhất kiểm tra và chốt danh sách gửi giảng viên. Mức can thiệp chọn Rule với các điều kiện lọc cố định để tối ưu chi phí và tránh rủi ro từ AI. Quyết định cuối cùng là Not Yet pilot trên ca thật vì rủi ro Value còn ở mức Cao do thiếu dữ liệu thực địa. Nhóm ưu tiên đo baseline 5 ca thật liên tiếp để kiểm chứng bottleneck thực tế trước khi triển khai công cụ.
+
 ---
 
