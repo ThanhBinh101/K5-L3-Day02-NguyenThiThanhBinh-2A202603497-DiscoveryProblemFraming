@@ -43,42 +43,44 @@ Danh sách dưới đây được viết lại từ 10 chủ đề và số li�
 
 Đây là shortlist tạm để chuẩn bị pitch, chưa phải kết luận dựa trên nghiên cứu. Thời lượng trong các sơ đồ cần được đo thực tế; không nên để dấu `___` trong bản nộp cuối.
 
-| Rank | Problem | Vì sao chọn | Điều còn chưa chắc |
-|---:|---|---|---|
-| 1 | Bỏ dở khóa học ngoại ngữ trực tuyến | Có thể hỏi người học quanh mình về một khóa học đã bỏ dở và lý do cụ thể; tiến độ có thể kiểm tra khi họ đồng ý | Chưa rõ nguyên nhân chính là nội dung, thời gian, độ khó hay thiếu tương tác; cần tìm người học đã từng bỏ dở |
-| 2 | Lãng phí điện trong gia đình/tòa nhà | Có thể quan sát thiết bị và thói quen sử dụng, ghi nhận mức tiêu thụ nếu có dữ liệu | Chưa rõ mức tiêu thụ bất thường đến từ thiết bị nào và có dữ liệu đo đủ chi tiết không |
-| 3 | Khó xác minh tin giả/deepfake | Có thể khảo sát cách người dùng kiểm tra một nội dung công khai, không cần thu dữ liệu nhạy cảm | Chưa rõ người dùng có thường gặp nội dung khó xác minh và mức độ chính xác của các dấu hiệu họ đang dùng |
+| Rank | Ý tưởng CP1 được chọn | Problem thu hẹp thành card | Vì sao chọn | Điều còn chưa chắc |
+|---:|---|---|---|---|
+| 1 | CP1 #6 — Học ngoại ngữ trực tuyến | Khó duy trì việc học khi nội dung hoặc nhịp học chưa phù hợp với trình độ và tiến độ | Có thể hỏi người học về một khóa học cụ thể và các sự kiện đã xảy ra; tiến độ có thể kiểm tra nếu họ đồng ý | Chưa rõ nguyên nhân chậm/bỏ học có liên quan đến nội dung, thời gian, độ khó hay yếu tố khác; chưa có bằng chứng về nguyên nhân |
+| 2 | CP1 #9 — Tiêu thụ điện trong nhà/tòa nhà | Khó xác định thiết bị hoặc thời điểm góp phần vào mức tiêu thụ bất thường | Có thể ghi chỉ số công tơ và quan sát thiết bị nếu có quyền tiếp cận dữ liệu | Chưa rõ có dữ liệu đủ chi tiết để liên hệ mức tiêu thụ với thiết bị cụ thể |
+| 3 | CP1 #10 — Xác minh tin tức/video | Khó kiểm tra nguồn và ngữ cảnh của tin tức/video trước khi quyết định tin hoặc chia sẻ | Có thể quan sát một tác vụ kiểm chứng nội dung công khai mà không cần thu dữ liệu nhạy cảm | Chưa rõ tần suất gặp vấn đề và cách người dùng hiện xác minh nội dung |
 
-### Problem Card #1
+Ba Problem Card bên dưới được chọn và thu hẹp trực tiếp từ các ý CP1 #6, #9 và #10. Các câu hỏi phản biện đặt cho card của thành viên khác thuộc CP3, không phải đầu vào hay nội dung của CP2.
+
+### Problem Card #1 — từ CP1 #6: Học ngoại ngữ trực tuyến
 
 | Trường | Nội dung |
 |---|---|
-| Job Story | Khi học ngoại ngữ trực tuyến và bắt đầu tụt tiến độ, tôi muốn biết bước học tiếp theo phù hợp với thời gian và trình độ của mình, để tiếp tục học và đạt mục tiêu |
-| Actor | Người học ngoại ngữ trực tuyến đã từng chậm tiến độ hoặc bỏ dở khóa học |
-| Thời điểm / bối cảnh | Sau vài buổi học đầu hoặc khi người học bỏ lỡ lịch học |
-| Quy trình hiện tại (3–7 bước) | 1. Chọn khóa học 2. Bắt đầu học theo nội dung có sẵn 3. Gặp khó khăn hoặc bỏ lỡ buổi học 4. Tự quyết định có học tiếp không 5. Tiếp tục hoặc bỏ khóa học |
-| Bottleneck (bước nào, mất bao nhiêu phút) | Giả thuyết: sau khi chậm tiến độ, người học không biết nên tiếp tục từ đâu; chưa đo được thời gian/tần suất. Xác minh qua phỏng vấn người từng bỏ dở |
-| Impact (nếu không giải thì sao) | Người học có thể không hoàn thành khóa học hoặc mục tiêu học tập; cần xác minh lý do bỏ dở thay vì giả định thiếu động lực |
-| Success metric (baseline → target) | Baseline: tỷ lệ hoàn thành/tuần học của nhóm thử nghiệm, chưa có. Target chốt sau baseline; theo dõi số buổi hoàn thành trong 2 tuần và hỏi lý do nghỉ học |
-| Phương án không dùng AI | Chia mục tiêu thành các buổi ngắn, lịch học cố định và nhắc học theo lịch do người học tự chọn |
-| Giả thuyết về AI (nếu có) | Chưa có căn cứ cần AI; trước tiên kiểm tra liệu lịch học và nội dung chia nhỏ có giúp duy trì tiến độ không |
-| Cảm nhận nhanh | Chưa biết; thử No AI/Rule trước |
+| Job Story | Khi học ngoại ngữ trực tuyến và thấy nội dung hoặc nhịp học không còn phù hợp với trình độ/tiến độ của mình, tôi muốn xác định phần học tiếp theo phù hợp, để tiếp tục hướng tới mục tiêu học tập |
+| Actor | Người học ngoại ngữ trực tuyến |
+| Thời điểm / bối cảnh | Khi đang theo một khóa học nhưng nhận thấy tiến độ hoặc độ khó không phù hợp; cần hỏi người học về một lần cụ thể |
+| Quy trình hiện tại (3–7 bước) | 1. Chọn khóa học 2. Học theo nội dung và nhịp có sẵn 3. Gặp nội dung quá dễ/khó hoặc chậm tiến độ (cần kiểm chứng) 4. Tự tìm phần học phù hợp tiếp theo 5. Tiếp tục, đổi nhịp học hoặc tạm dừng |
+| Bottleneck (bước nào, mất bao nhiêu phút) | Giả thuyết: khó chọn nội dung/nhịp học phù hợp sau khi tiến độ thay đổi; chưa có số đo thời gian hay tần suất |
+| Impact (nếu không giải thì sao) | Người học có thể khó duy trì tiến độ hoặc đạt mục tiêu; chưa khẳng định đây là nguyên nhân khiến họ bỏ học |
+| Success metric (baseline → target) | Baseline chưa có. Có thể đo số buổi hoàn thành và số lần người học phải tự tìm/đổi nội dung trong một khoảng theo dõi thống nhất; chốt target sau khi có baseline |
+| Phương án không dùng AI | Cho phép chọn mục tiêu, mức độ và nhịp học; chia nội dung thành phần nhỏ và để người học tự điều chỉnh lịch |
+| Giả thuyết về AI (nếu có) | Chưa có căn cứ cần AI; trước tiên cần xác minh nhu cầu và xem điều chỉnh nội dung/nhịp học bằng lựa chọn có sẵn có đủ không |
+| Cảm nhận nhanh | Chưa biết; so sánh No AI/Rule trước |
 
 Quy trình nháp hiện tại:
 
 ```text
-[Chọn khóa học: ___ phút, ghi thời gian thực tế]
-→ [Học theo nội dung có sẵn: ___ phút/buổi]
-→ [Bỏ lỡ buổi học hoặc gặp khó: ghi sự kiện]
-→ [Tìm lại tiến độ/bước tiếp theo: ___ phút; bottleneck giả thuyết]
-→ [Tiếp tục học hoặc dừng: ghi kết quả]
+[Chọn khóa học và mục tiêu: ghi theo tác vụ thực tế]
+→ [Học theo nội dung/nhịp hiện có]
+→ [Ghi nhận khi nội dung hoặc tiến độ không phù hợp (cần hỏi/quan sát)]
+→ [Tìm/chọn phần học tiếp theo: bấm giờ khi kiểm chứng; bottleneck giả thuyết]
+→ [Tiếp tục, điều chỉnh nhịp hoặc tạm dừng: ghi kết quả]
 ```
 
-### Problem Card #2
+### Problem Card #2 — từ CP1 #9: Tiêu thụ điện trong nhà/tòa nhà
 
 | Trường | Nội dung |
 |---|---|
-| Job Story | Khi phát hiện điện trong nhà tiêu thụ nhiều hơn dự kiến, tôi muốn biết thiết bị hoặc thời điểm nào góp phần đáng kể, để cân nhắc cách giảm lãng phí |
+| Job Story | Khi nhận thấy mức tiêu thụ điện trong nhà/tòa nhà bất thường, tôi muốn xác định thiết bị hoặc thời điểm có liên quan, để cân nhắc cách giảm lãng phí |
 | Actor | Người trong hộ gia đình hoặc người vận hành tòa nhà có thể xem dữ liệu điện |
 | Thời điểm / bối cảnh | Khi hóa đơn tăng hoặc khi rà soát mức tiêu thụ định kỳ |
 | Quy trình hiện tại (3–7 bước) | 1. Nhận hóa đơn/xem công tơ 2. So sánh mức dùng với kỳ trước 3. Kiểm tra các thiết bị đang hoạt động 4. Đoán nguyên nhân 5. Thay đổi cách sử dụng 6. So sánh mức tiêu thụ kỳ sau |
@@ -100,7 +102,7 @@ Quy trình nháp hiện tại:
 → [So sánh chỉ số kỳ tiếp theo]
 ```
 
-### Problem Card #3
+### Problem Card #3 — từ CP1 #10: Xác minh tin tức/video
 
 | Trường | Nội dung |
 |---|---|
@@ -128,33 +130,32 @@ Quy trình nháp hiện tại:
 ### Card muốn pitch nhất
 
 - Card số: 1
-- Vì sao: người học có thể kể lại một khóa học đã bỏ dở và tiến trình có thể kiểm tra khi họ đồng ý. Đây là lựa chọn sơ bộ, cần xác nhận có thể tiếp cận người học phù hợp.
-- Câu hỏi muốn nhóm phản biện: “Bằng chứng nào cho thấy người học bỏ dở vì không biết bước tiếp theo, thay vì thiếu thời gian hoặc không còn nhu cầu?”
+- Vì sao: phát triển trực tiếp từ CP1 #6 và có thể hỏi người học về một tình huống học cụ thể. Chưa có bằng chứng xác nhận nội dung/nhịp học là nguyên nhân khiến họ chậm tiến độ.
+- Câu hỏi muốn nhóm phản biện: “Bằng chứng nào cho thấy nội dung hoặc nhịp học chưa phù hợp là trở ngại, thay vì thiếu thời gian, thay đổi mục tiêu hoặc nguyên nhân khác?”
 
 ### AI đã phản biện card thế nào
 
 | Điểm yếu AI chỉ ra | Đồng ý? | Đã sửa gì |
 |---|---|---|
-| Các chủ đề theo ngành rộng hơn một bài toán kiểm chứng được | Đồng ý | Thu hẹp thành hành vi cụ thể: tiếp tục học sau khi chậm tiến độ |
-| Chưa có dữ liệu thực tế để khẳng định nguyên nhân bỏ dở | Đồng ý | Ghi nguyên nhân là giả thuyết và xác minh qua phỏng vấn người từng bỏ khóa |
+| Ý tưởng CP1 về học ngoại ngữ còn rộng, chưa nêu tình huống cụ thể | Đồng ý | Thu hẹp thành tình huống người học nhận thấy nội dung/nhịp học không phù hợp và cần chọn bước học tiếp theo |
+| Chưa có dữ liệu thực tế để khẳng định nội dung/nhịp học là trở ngại hoặc nguyên nhân tạm dừng | Đồng ý | Ghi đây là giả thuyết, cần hỏi người học về một trải nghiệm cụ thể; không kết luận họ bỏ học vì thiếu động lực |
 | Chưa chứng minh AI cần thiết | Đồng ý | Đề xuất thử lịch học cố định/chia nhỏ nội dung trước và để mức can thiệp là “Chưa biết” |
 
 ---
 
 ## 4. Tôi đã tham gia phần nào (CP3 → CP7)
 
+Đối chiếu với [báo cáo nhóm, mục 2–8](https://github.com/ThanhBinh101/K5-L3-Day02-NguyenThiThanhBinh-2A202603497-DiscoveryProblemFraming/blob/main/report/team/group_report.md). Bảng dưới đây chỉ ghi phần báo cáo nhóm có bằng chứng gắn với tôi; sản phẩm CP4–CP6 là đầu ra chung, không tự suy diễn thành phần việc cá nhân.
+
 | Hoạt động | Tôi đã làm gì? | Kết quả / ảnh hưởng tới bài nhóm |
 |---|---|---|
-| Pitch Problem Card | Tôi pitch card “kiểm tra thiếu mục/tài liệu trước deadline” cho nhóm, giải thích actor, quy trình, bottleneck và impact rõ ràng. | Card này được nhóm đánh giá là dễ hiểu và có thể đo được. Nó trở thành card mạnh nhất để đi tiếp. |
-| Phản biện bài của bạn khác | Câu hỏi tôi đã đặt: “Bottleneck đặt ở bước nào, không phải là cả quy trình? Nếu không dùng AI, cách làm đơn giản nhất là gì?” | Câu hỏi này giúp các bạn khác thu hẹp lại vấn đề và tránh viết quá rộng hoặc nhảy sang giải pháp sớm. |
-| Nhận phản biện | Câu hỏi tôi nhận được: “Bạn có chắc đây là problem thật của sinh viên, hay chỉ là thói quen cá nhân?”; “Gần đây bạn có mất 30–60 phút không?” | Tôi đã sửa lại cách mô tả bằng cách cụ thể hóa thời điểm, tần suất và bước bottleneck để card chặt hơn. |
-| Gom cluster / cây OST | Tôi hỗ trợ nhóm gộp các candidate tương tự như “tìm thông tin cũ”, “tổng hợp feedback”, “kiểm tra rubric trước deadline” thành cùng một nhóm pain. | Giúp nhóm nhìn thấy pattern và chọn problem đúng chứ không chỉ chọn bài toán riêng lẻ. |
-| Chọn candidate problem | Tôi góp ý rằng nên chọn problem có actor rõ, quy trình thực tế và bottleneck đo được. | Nhóm cuối cùng ưu tiên card kiểm tra thiếu mục/tài liệu trước deadline. |
-| Kiểm chứng / research | Tôi tham gia xem lại bằng chứng về tần suất và thời gian, đồng thời kiểm tra rằng problem không quá “cá nhân”. | Tạo nền tảng cho việc xác định bài toán có thực sự đáng giải quyết không. |
-| Quy trình nhóm | Tôi theo dõi cách nhóm mô tả quy trình hiện tại và tương lai, nhấn vào các bước nào cần rule, workflow hay người kiểm tra. | Điều này giúp nhóm không lẫn lộn problem với solution. |
-| Problem Statement | Tôi đóng góp vào việc viết v0: actor, quy trình, bottleneck, impact, success metric, boundary. | Bản mô tả bài toán trở nên rõ hơn và có thể so sánh với các giải pháp khác nhau. |
-| Mức can thiệp AI | Tôi góp ý rằng nên bắt đầu bằng Rule/Workflow thay vì nghĩ đến Agent. | Giúp nhóm bỏ đi suy nghĩ “AI tự làm tất cả” và chuyển về mức can thiệp phù hợp. |
-| Quyết định | Tôi đồng thuận với quyết định chọn Rule/Workflow cho vấn đề này nếu cần, với người kiểm tra ở cuối. | Kết quả là nhóm không quá lạc sang AI sớm và giữ được mức độ thực tế. |
+| CP3 — Pitch candidate | Báo cáo nhóm ghi nhận tôi pitch ba candidate: hỗ trợ sản phẩm/dịch vụ, tìm sản phẩm trực tuyến và học ngoại ngữ trực tuyến. | Bảng pitch nhóm có các candidate #4–#6 mang tên tôi. **Cần đối chiếu lại với CP2 hiện tại:** top 3 cá nhân đã được sửa thành CP1 #6 (học ngoại ngữ), #9 (tiêu thụ điện), #10 (xác minh tin tức/video), nên candidate pitch trong báo cáo nhóm chưa khớp hoàn toàn với CP2 mới nhất. |
+| CP3 — Câu hỏi phản biện tôi đặt | Tôi hỏi về an toàn khi đánh giá lỗi xe VinFast (#1), việc nên tách nhu cầu tìm WC và mua nước cùng độ tin cậy của dữ liệu tiện ích (#8), và khả năng xử lý lỗi thiếu thư viện Python bằng hướng dẫn/quy tắc trước khi dùng AI (#11). | Ba câu hỏi được ghi tên tôi trong bảng pitch nhóm; giúp làm rõ boundary an toàn, phạm vi problem và liệu giải pháp đơn giản hơn AI có đủ không. |
+| CP3 — Phản biện tôi nhận | Với candidate hỗ trợ khách hàng, Thanh Bình hỏi loại yêu cầu/kênh cụ thể và căn cứ xác định giải quyết ngay lần đầu. Với candidate tìm sản phẩm, Long Nhật hỏi cách cân bằng giảm số lần lọc với việc vẫn tìm được sản phẩm đạt tiêu chí. | Hai câu hỏi phản biện này được ghi trong bảng pitch nhóm. Báo cáo cá nhân chưa ghi lại câu trả lời hay thay đổi nào sau phản biện; chỉ bổ sung nếu có thực tế. |
+| CP3 — Shortlist và chấm điểm | Báo cáo nhóm có ghi candidate hỗ trợ khách hàng của tôi trong bảng chấm shortlist: 4 (actor rõ), 4 (quy trình rõ), 1 (pain có bằng chứng), 2 (impact đo được), 4 (vừa sức lab), 4 (so sánh mức can thiệp), 2 (hiểu domain), tổng 21. | Đây là điểm số đang có trong báo cáo nhóm; cần xác nhận đó là điểm tôi tự chấm hay điểm thảo luận chung. Chưa ghi nhận candidate cuối cùng được nhóm chọn. |
+| CP4 — Kiểm chứng và research | Báo cáo nhóm chuyển candidate chính sang bài đối chiếu tình trạng 12 máy của Nhật. CP4 có rà soát 5 ca mô phỏng, nêu rõ chưa có phỏng vấn, survey hay baseline thực tế; research hai phương án Google Sheets và Snipe-IT. | Đây là nội dung sản phẩm nhóm. Báo cáo nhóm không ghi rõ tôi phụ trách thu thập dữ liệu, phỏng vấn hay research phần nào; vì vậy chưa ghi nhận đây là đóng góp cá nhân của tôi. |
+| CP5 — Quy trình và Problem Statement v0 | Báo cáo nhóm mô tả quy trình 5 bước của ca kiểm 12 máy, nêu bước đối chiếu mã máy là bottleneck trong dữ liệu mô phỏng; đề xuất bảng bàn giao chuẩn và Rule lọc lỗi còn mở, có người trực xác minh ngoại lệ. | Đây là nội dung chung của báo cáo nhóm, baseline ca thật vẫn chưa đo. Chưa có phân công hoặc ghi nhận cụ thể cho thấy tôi là người lập quy trình hay viết Problem Statement v0. |
+| CP6 — Mức can thiệp, v1 và quyết định | Báo cáo nhóm đề xuất mức Rule, giữ người trực xác minh và đặt điều kiện đánh giá tốc độ cùng chất lượng; quyết định/đề xuất còn chờ nhóm xác nhận. | Đây là nội dung chung. Báo cáo nhóm chưa ghi tôi phụ trách AI Canvas, tiêu chí đánh giá, phân tích rủi ro hay quyết định; không ghi các phần này là đóng góp cá nhân của tôi. |
 
 ---
 
