@@ -1,8 +1,4 @@
 # K5 · L3 · Day 02 — Bài làm cá nhân về Discovery & Problem Framing
-**Bài mô phỏng**
-
-> Tình huống, số liệu, quan sát và phản hồi AI trong bài đều là giả định để minh họa cách làm. Các mục tiêu là mốc đề xuất để kiểm chứng.
-
 ## 1. Bối cảnh cá nhân
 
 Tôi là sinh viên CNTT trực một phòng thực hành có 12 máy. Tôi nhận ca 25 phút trước giờ học. Mỗi ca, tôi đăng nhập thử và chạy bài kiểm tra Python ngoại tuyến trên từng máy rồi báo cho giảng viên chỗ nào dùng được và chỗ nào cần đổi. Kết quả kiểm tra mới ghi theo mã dán trên máy, còn một số lỗi bàn giao chỉ ghi vị trí như “máy cuối dãy B”. Khi ghi chú thiếu mã hoặc thời điểm cập nhật, tôi phải quay lại đối chiếu trước khi chốt tình trạng máy.
